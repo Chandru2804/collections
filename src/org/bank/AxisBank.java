@@ -8,6 +8,10 @@ public class AxisBank extends BankInfo {
 	
 
 	}
+	private void widthdraw() {
+		// TODO Auto-generated method stub
+
+	}
 	
 	public static void main(String[] args) {
 		AxisBank a = new AxisBank();
@@ -16,4 +20,5 @@ public class AxisBank extends BankInfo {
 		a.fixed();
 		a.deposit();
 	}
+	
 }
